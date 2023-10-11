@@ -1,6 +1,6 @@
 
 /* Reset some default browser styles */
-.questions{
+blockquote.questions{
 	background-color: #f8fffe;
 	height: 50px;
 	margin-top: 20px;
