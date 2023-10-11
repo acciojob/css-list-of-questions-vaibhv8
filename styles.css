@@ -1,19 +1,10 @@
 
-/* Your CSS Code here. */
-body {
-    background-color: #f8fffe;
-    font-family: Arial, sans-serif;
-    text-align: center;
-    margin: 0;
-    padding: 0;
-}
-
-blockquote.questions {
-    background-color: #f8fffe;
-    height: 50px;
-    margin-top: 20px;
-    padding: 15px;
-    max-width: 600px;
-    border-left: 8px solid green;
-    
+/* Reset some default browser styles */
+.questions{
+	background-color: #f8fffe;
+	height: 50px;
+	margin-top: 20px;
+	padding: 15px;
+	max-width:600px;
+	border-left: 8px solid green;
 }
